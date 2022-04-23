@@ -1,0 +1,23 @@
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\bin\Debug\net6.0-windows\Exercise project2.exe
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\bin\Debug\net6.0-windows\Exercise project2.deps.json
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\bin\Debug\net6.0-windows\Exercise project2.runtimeconfig.json
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\bin\Debug\net6.0-windows\Exercise project2.dll
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\bin\Debug\net6.0-windows\Exercise project2.pdb
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2.csproj.AssemblyReference.cache
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2_MarkupCompile.cache
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2_MarkupCompile.lref
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2.g.resources
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2.AssemblyInfoInputs.cache
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2.AssemblyInfo.cs
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2.csproj.CoreCompileInputs.cache
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2.dll
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\refint\Exercise project2.dll
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2.pdb
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\Exercise project2.genruntimeconfig.cache
+C:\Users\Eimyf\source\repos\Exercise project2\Exercise project2\obj\Debug\net6.0-windows\ref\Exercise project2.dll

@@ -1,0 +1,17 @@
+﻿<Window x:Name="_forceWin" x:Class="Exercise_project2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise_project2"
+        mc:Ignorable="d"
+        WindowStyle="SingleBorderWindow"
+        Focusable="True"
+        ResizeMode="NoResize"
+        Title="Dialog Window" Height="200" Width="450" Deactivated="_dA" MouseLeave="_forceWin_MouseLeave" KeyDown="_forceWin_KeyDown" >
+    <Grid>
+        <TextBox x:Name="_inputBox" HorizontalAlignment="Center" Height="40" Margin="0,24,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="380" FontSize="20" TextAlignment="Center" KeyDown="_inputBox_KeyDown"/>
+        <Label Content="Write Something and Press Enter" HorizontalAlignment="Center" Height="31" Margin="0,92,0,0" VerticalAlignment="Top" Width="214" FontSize="14"/>
+
+    </Grid>
+</Window>
